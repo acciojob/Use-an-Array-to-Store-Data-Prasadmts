@@ -1,2 +1,1 @@
-var yourArray = [ 'one', 2, false, 'undefined', true];
-console.log(yourArray.length);
+let yourArray = ["hello", 123, true, "world", null];
